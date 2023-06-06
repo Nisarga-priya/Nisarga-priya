@@ -3,13 +3,33 @@
 #### I'm Nisarga Priya
 I am new to the Data Analytics realm, but I am driven by a passion to master the art of data storytelling and unlock its transformative power. I believe that through the artful fusion of data and storytelling, we can shape a future where information becomes a catalyst for positive change.
 
-## 🧰 Languages and Tools:
+## 🧰 DA Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/D4Vinci/Dr0p1t-Framework/master/icons/Microsoft-Excel.ico" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/D4Vinci/Dr0p1t-Framework/master/icons/Powerpoint-green.ico" height="40" style="vertical-align:top; margin:4px">
+<img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" height="40" style="vertical-align:top; margin:4px"> 
 </p>
 
+
+
+## 🖼 Visualization Tools:
+<p align="center">
+<img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+##  🖥️ ML/DL:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Logo">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib Logo">
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Logo">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Logo">
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Logo">
+</div>
 
 
 
