@@ -1,6 +1,6 @@
-### Hi there 👋 
-#### Welcome to my page!
-#### I'm Nisarga Priya
+## Hi there 👋 
+### Welcome to my page!
+### I'm Nisarga Priya
 I am new to the Data Analytics realm, but I am driven by a passion to master the art of data storytelling and unlock its transformative power. I believe that through the artful fusion of data and storytelling, we can shape a future where information becomes a catalyst for positive change.
 
 ## 🧰 DA Tools:
