@@ -12,8 +12,6 @@ I am new to the Data Analytics realm, but I am driven by a passion to master the
 <img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" height="40" style="vertical-align:top; margin:4px"> 
 </p>
 
-
-
 ## 🖼 Visualization Tools:
 <p align="center">
 <img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" height="40" style="vertical-align:top; margin:4px">
@@ -21,7 +19,6 @@ I am new to the Data Analytics realm, but I am driven by a passion to master the
 </p>
 
 ##  🖥️ ML/DL:
-
 <div align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Logo">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo">
@@ -31,24 +28,17 @@ I am new to the Data Analytics realm, but I am driven by a passion to master the
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy Logo">
 </div>
 
-
-
 ## ✉️ Find me on:
-
-
 <p align="center">
  <a href="https://github.com/Nisarga-priya" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/nisargapriyav/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="nisargapriya97@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
 <br />
 
-
 ## 🐱‍👤 My current status:
-
 - 🔭 I’m currently working on beginner friendly data scientist projects to get some hand's on experiance in analysing large datasets and building Machine learning models.
 - 🌱 I’m currently learning Data Science with focus on Data analytics field.
-
+- 
 ## ⚡ Fun fact:
 Did you know that humans and bananas share about 50% of the same DNA? While humans and bananas may seem vastly different, there are surprising similarities in our genetic makeup. This similarity can be attributed to the fact that all living organisms on Earth share a common ancestor that lived billions of years ago. Over time, through the process of evolution, species have diverged and developed unique traits, but the underlying genetic code still holds remnants of our shared ancestry. So, next time you enjoy a banana, remember that you have more in common with it than you might think at a genetic level!
