@@ -37,8 +37,8 @@ I am new to the Data Analytics realm, but I am driven by a passion to master the
 <br />
 
 ## 🐱‍👤 My current status:
-- 🔭 I’m currently working on beginner friendly data scientist projects to get some hand's on experiance in analysing large datasets and building Machine learning models.
-- 🌱 I’m currently learning Data Science with focus on Data analytics field.
-- 
+- 🌱 I am currently learning data science with a focus on the data analytics field.
+- 🔭 Working on beginner-friendly data scientist projects to gain hands-on experience in analyzing large datasets and building machine learning models.
+
 ## ⚡ Fun fact:
 Did you know that humans and bananas share about 50% of the same DNA? While humans and bananas may seem vastly different, there are surprising similarities in our genetic makeup. This similarity can be attributed to the fact that all living organisms on Earth share a common ancestor that lived billions of years ago. Over time, through the process of evolution, species have diverged and developed unique traits, but the underlying genetic code still holds remnants of our shared ancestry. So, next time you enjoy a banana, remember that you have more in common with it than you might think at a genetic level!
