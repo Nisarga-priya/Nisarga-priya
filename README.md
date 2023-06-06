@@ -1,11 +1,11 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Nisarga Priya
+I may be new to the Data Analytics realm, but I am driven by a passion to master the art of data storytelling and unlock its transformative power. With each dataset I analyze and every narrative I craft, I strive to captivate audiences, drive meaningful insights, and ultimately, make a significant impact. While taking over the world may be a lofty ambition, I believe that through the artful fusion of data and storytelling, I can shape a future where information becomes a catalyst for positive change
 <!--
 **Nisarga-priya/Nisarga-priya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
